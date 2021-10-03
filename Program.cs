@@ -7,7 +7,7 @@ namespace ifElseMeses
     {
         static void Main(string[] args)
         {
-            WriteLine("Escreva o numero do mês");
+            WriteLine("Escreva o numero do mês:");
             string mes = ReadLine();
 
             if (mes == "2")
