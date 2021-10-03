@@ -1,0 +1,16 @@
+D:\projetos\ams\1ano\atividade\ifElseMeses\obj\Debug\net5.0\ifElseMeses.csproj.AssemblyReference.cache
+D:\projetos\ams\1ano\atividade\ifElseMeses\obj\Debug\net5.0\ifElseMeses.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\ams\1ano\atividade\ifElseMeses\obj\Debug\net5.0\ifElseMeses.AssemblyInfoInputs.cache
+D:\projetos\ams\1ano\atividade\ifElseMeses\obj\Debug\net5.0\ifElseMeses.AssemblyInfo.cs
+D:\projetos\ams\1ano\atividade\ifElseMeses\obj\Debug\net5.0\ifElseMeses.csproj.CoreCompileInputs.cache
+D:\projetos\ams\1ano\atividade\ifElseMeses\bin\Debug\net5.0\ifElseMeses.exe
+D:\projetos\ams\1ano\atividade\ifElseMeses\bin\Debug\net5.0\ifElseMeses.deps.json
+D:\projetos\ams\1ano\atividade\ifElseMeses\bin\Debug\net5.0\ifElseMeses.runtimeconfig.json
+D:\projetos\ams\1ano\atividade\ifElseMeses\bin\Debug\net5.0\ifElseMeses.runtimeconfig.dev.json
+D:\projetos\ams\1ano\atividade\ifElseMeses\bin\Debug\net5.0\ifElseMeses.dll
+D:\projetos\ams\1ano\atividade\ifElseMeses\bin\Debug\net5.0\ref\ifElseMeses.dll
+D:\projetos\ams\1ano\atividade\ifElseMeses\bin\Debug\net5.0\ifElseMeses.pdb
+D:\projetos\ams\1ano\atividade\ifElseMeses\obj\Debug\net5.0\ifElseMeses.dll
+D:\projetos\ams\1ano\atividade\ifElseMeses\obj\Debug\net5.0\ref\ifElseMeses.dll
+D:\projetos\ams\1ano\atividade\ifElseMeses\obj\Debug\net5.0\ifElseMeses.pdb
+D:\projetos\ams\1ano\atividade\ifElseMeses\obj\Debug\net5.0\ifElseMeses.genruntimeconfig.cache
